@@ -1,0 +1,56 @@
+body{
+background: linear-gradient(270deg, #161616 0%, #fff 100%);
+}
+
+.Imagen1 {
+	height: auto;
+	width: 100%;
+}
+
+.Imagen2{
+	float: right;
+	height: auto;
+	width: 100%;
+	text-align: center;
+
+	
+}
+
+nav {
+
+
+	background-color: #AFAFAF;
+	height: 240px;
+	width: 140px;
+	text-align: center;
+
+}
+
+a{
+	
+	color: #000;
+	font-family: Calibri;
+	font-size: 24px;
+	display: inline-block;
+	float: none;
+
+}
+
+
+
+a:hover {
+	background-color: #E8A639;
+}
+
+div {
+	font-family: Calibri;
+	font-size: 24px;
+
+}
+
+h2 {
+
+	font-family: Arial;
+	color: #E8A639;
+}
+
